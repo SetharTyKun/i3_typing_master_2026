@@ -1,3 +1,4 @@
+package midterm.i3_typing_master_2026.Collaborator;
 import java.util.Scanner;
 
 public class listresult {
